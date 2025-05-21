@@ -1,20 +1,21 @@
-# Java Swing Slider GUI
+# 🎚️ Java Swing Slider GUI
 
-This is a simple Java application using Swing that displays a vertical slider with a range of 0 to 100. The slider updates a label in real time to reflect its current value.
+A simple Java Swing application that displays a vertical slider and updates its value in real-time using a label.
 
-## Features
+## ✨ Features
 
-- Vertical `JSlider` with:
-  - Range from 0 to 100
-  - Major tick spacing every 25 units
-  - Minor tick spacing every 10 units
-  - Tick marks and labels enabled
-- Real-time value display using a `JLabel`
-- Clean, minimal GUI layout
+- 🎛️ Vertical `JSlider` with:
+  - Range: 0 to 100
+  - 📏 Major tick spacing every 25
+  - 📍 Minor tick spacing every 10
+  - ✅ Tick marks and numeric labels
+- 🔁 Real-time value update using a `JLabel`
+- 🧼 Clean and minimal GUI layout
 
-## How to Run
+## 🚀 How to Run
 
-1. Make sure you have Java installed (JDK 8 or higher).
-2. Compile the Java file:
+1. 📥 Clone or download the repository.
+2. 🧰 Make sure Java (JDK 8 or higher) is installed.
+3. 🔧 Compile the Java file:
    ```bash
    javac ops.java
